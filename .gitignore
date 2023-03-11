@@ -103,6 +103,7 @@ celerybeat.pid
 
 # Environments
 .env
+credentials.json
 .venv
 env/
 venv/
